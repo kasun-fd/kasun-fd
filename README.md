@@ -15,7 +15,7 @@ To craft digital masterpieces that bridge innovation and functionality, pushing 
 * 🚀  I'm currently working on [Developers Stack](https://www.developersstack.com)
 * 🧠  I’m currently learning **AL/ML**
 * 🤝  I'm open to collaborating on **Spring boot, Angular, React, NodeJS**
-* 👨🏼‍💻  Now I'm looking for an internship
+* 👨🏼‍💻  Now I'm looking for an ASE position
 * ⚡️  Fun fact **Once solved a coding challenge during a power outage using my phone's flashlight - nothing stops me! ⚡️**
 
 ## <h2>🐍 Skills</h2>
